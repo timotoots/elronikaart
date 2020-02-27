@@ -1,15 +1,26 @@
-# elronikaart
-Elroni kaart
+# Elroni kaart
 
-# Hardware:
+# Hardware/Riistvara:
 
 * Wemos D1 Mini
+https://www.aliexpress.com/item/32529101036.html
+
 * 1-Button shield
+https://www.aliexpress.com/item/32575988167.html
+
 * APA106 LED RGB
+https://www.aliexpress.com/item/32672143824.html
 
-# How to program
+* OLED Shield
+https://www.aliexpress.com/item/32627787079.html
 
-* Install CH340 Driver
+* Dual Base Shield
+https://www.aliexpress.com/item/32642733925.html
+
+
+# How to program / Kuidas programmeerida?
+
+* Install CH340 Driver for Windows/Mac/Linux
 
 	* https://learn.sparkfun.com/tutorials/how-to-install-ch340-drivers/all
 
@@ -39,6 +50,6 @@ Elroni kaart
 
 * Upload
 
-# Change wifi
+# Change Wifi 
 
 * 
