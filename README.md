@@ -1,5 +1,7 @@
 # Elroni kaart
 
+Autorid/By Jasper Liiberg, Timo Toots 
+
 # Hardware/Riistvara:
 
 * Wemos D1 Mini
