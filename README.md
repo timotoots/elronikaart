@@ -49,6 +49,14 @@ https://www.aliexpress.com/item/32642733925.html
 
 	* Select: LOLIN(WEMOS) D1 R2 & mini
 
+* Download this repository
+
+	https://github.com/timotoots/elronikaart/archive/master.zip
+
+* Rename directory to "elronikaart" 
+
+* Open in Arduino IDE
+
 * Tools -> Port
 
 	* Select: /dev/cu.wchusbserial-XXXX
@@ -59,9 +67,9 @@ https://www.aliexpress.com/item/32642733925.html
 
 # Change wifi
 
-* Log in to "elronikaart" wifi network 
+* Log in to "elronikaart" wifi network, default password "rongrong"
 
-* Configure new network
+* Find your Wifi network
 
 * Restart
 
