@@ -29,7 +29,9 @@ https://www.aliexpress.com/item/32642733925.html
 
 	* https://learn.sparkfun.com/tutorials/how-to-install-ch340-drivers/all
 
-* Install Arduino IDE
+* Install Arduino IDE and open
+
+	https://www.arduino.cc/en/Main/Software
 
 * In "Preferences" install ESP8266
 
@@ -37,7 +39,7 @@ https://www.aliexpress.com/item/32642733925.html
 
 	http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
-* Tools -> Manage Libraries
+* Tools -> Manage Libraries, install these libraries
 
 	* AutoConnect  
 	* FastLED  
@@ -45,11 +47,11 @@ https://www.aliexpress.com/item/32642733925.html
 
 * Tools -> Board
 
-	* LOLIN(WEMOS) D1 R2 & mini
+	* Select: LOLIN(WEMOS) D1 R2 & mini
 
 * Tools -> Port
 
-	* /dev/cu.wchusbserial-XXXX
+	* Select: /dev/cu.wchusbserial-XXXX
 
 * Connect to USB cable
 
@@ -60,3 +62,8 @@ https://www.aliexpress.com/item/32642733925.html
 * Log in to "elronikaart" wifi network 
 
 * Configure new network
+
+* Restart
+
+# Enjoy Elron!
+
