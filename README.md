@@ -1,6 +1,9 @@
 # Elroni kaart
 
-Autorid/By Jasper Liiberg, Timo Toots 
+Autorid/By Jasper Liiberg, Timo Toots  
+Made in Maajaam Studio  
+
+![Prototype](images/prototype.jpg)
 
 # Hardware/Riistvara:
 
