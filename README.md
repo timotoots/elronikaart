@@ -50,6 +50,8 @@ https://www.aliexpress.com/item/32642733925.html
 
 * Upload
 
-# Change Wifi 
+# Change wifi
 
-* 
+* Log in to "elronikaart" wifi network 
+
+* Configure new network
